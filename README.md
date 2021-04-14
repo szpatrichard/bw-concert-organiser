@@ -16,8 +16,6 @@ Worth: 30%
 
 ## Blackwater Annual Concert
 
----
-
 Write a program that helps organise the Blackwater Annual Concert.
 
 The main menu allows the user add performers to the concert and eventually it is used to generate a
@@ -180,8 +178,6 @@ Blackwater Annual Music Concert
 ```
 
 ## Project Development Guidelines
-
----
 
 ### 1. Implementing the Menu
 
