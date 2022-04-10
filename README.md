@@ -1,18 +1,8 @@
-<img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="CIT Logo" width="25%" />
+<img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="Cork Institute of Technology" width="25%" />
 
-#### Cork Institute of Technology
-
-##### CR106 - BSc Honours Software Development
-
-##### 2020-21 Academic Year (Year 1 Semester 1)
-
----
+#### CR106 - BSc Honours Software Development
 
 # SOFT6018 - Programming Fundamentals Project
-
-Worth: 30%
-
-**Due Date:** Sunday 13th December @ 23:59
 
 ## Blackwater Annual Concert
 
@@ -255,9 +245,5 @@ Blackwater Annual Music Concert
 
 -   Modify so the duration of a performance is stored as an int
 -   Add an if statement so a `*` appears after the name if duration > 15
-
----
-
-#### SOFT6018 - Programming Fundamentals
 
 ##### Patrik Richard Szilagyi, 2020
